@@ -12,9 +12,9 @@ window.onload = function() {
 function setGame() {
     board = [
         [0,0,0,0],
-        [0,0,0,0],
-        [0,0,4,4],
-        [0,8,2,2]
+        [2,2,8,8],
+        [4,4,4,4],
+        [2,2,2,2]
     ]
     for (let r = 0; r < row; r++){
         for (let c = 0; c < col; c++){

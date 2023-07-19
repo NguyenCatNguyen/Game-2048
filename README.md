@@ -1,5 +1,3 @@
--`span`:
-- `pagaraph tag`:
-
-- Use  **class** to group elements sharing the same style
-- Use **id** to uniquely identify an element
+### 2048 
+- This is a responsive of 2048 game using HTML, CSS and JavaScript.
+- Link:  https://nguyencatnguyen.github.io/Game-2048/
